@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redux , NextJS , express ,Node ,Mongo**
 
-- 👨‍💻 All of my projects are available at [https://anil-yadav.vercel.app/](https://anilyadav.tech/)
+- 👨‍💻 All of my projects are available at [https://anilyadav.tech/](https://anilyadav.tech/)
 
 - 💬 Ask me about **ReactJS , Shadcn , Tailwind , Web3**
 
